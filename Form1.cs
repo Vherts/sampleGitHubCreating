@@ -26,5 +26,10 @@ namespace sampleGitHubCreating
         {
             MessageBox.Show("Fuck me!", "System Alert", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
+
+        private void button3_Click ( object sender, EventArgs e )
+        {
+
+        }
     }
 }
