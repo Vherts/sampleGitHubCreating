@@ -43,17 +43,6 @@
             
             this.button1.Click += new System.EventHandler(this.button1_Click);
 
-            // button2
-            // 
-            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(283, 350);
-            this.button22.Name = "button1";
-            this.button2.Size = new System.Drawing.Size(252, 85);
-            this.button2.TabIndex = 0;
-            this.button2.Text = "Thank you";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button1_Click);
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
